@@ -39,7 +39,7 @@
     <a href="https://www.postgresql.org/" target="_blank"> <img height="40" width="40" src="https://www.postgresql.org/media/img/about/press/elephant.png"/> </a>
     <a href="https://www.mysql.com" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img height="40" width="40" src="./pngs/docker.png"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img height="40" width="45" src="./pngs/docker.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/> </a>
     <a href="https://getbootstrap.com/" target="_blank"> <img height="40" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/> </a>
 </p>
