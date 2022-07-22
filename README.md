@@ -32,16 +32,16 @@
 <h1 align="center">🚀 Tools I Use</h1>
 
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png"/ alt="Html"> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/ alt="CSS"> </a>
-    <a href="https://www.python.org" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png"/ alt="Python"> </a>
-    <a href="https://www.djangoproject.com/start/" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/material-outlined/48/26e07f/django.png"/ alt="Django"> </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img height="40" width="40" src="https://www.postgresql.org/media/img/about/press/elephant.png"/ alt="Postgres"> </a>
-    <a href="https://www.mysql.com" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/ alt="MySQL"> </a>
-    <a href="https://git-scm.com" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png"/ alt="Git"> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img height="40" width="50" src="./pngs/docker.png"/ alt="Docker"> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/ alt="VS Code"> </a>
-    <a href="https://getbootstrap.com/" target="_blank"> <img height="40" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/ alt="BootStrap"> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png"/ alt="Html" title="Html"> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/ alt="CSS" title="CSS"> </a>
+    <a href="https://www.python.org" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png"/ alt="Python" title="Python"> </a>
+    <a href="https://www.djangoproject.com/start/" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/material-outlined/48/26e07f/django.png"/ alt="Django" title="Django"> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img height="40" width="40" src="https://www.postgresql.org/media/img/about/press/elephant.png"/ alt="Postgres" title="Postgres"> </a>
+    <a href="https://www.mysql.com" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/ alt="MySQL" title="MySQL"> </a>
+    <a href="https://git-scm.com" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png"/ alt="Git" title="Git"> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img height="53" width="53" src="./pngs/docker.png"/ alt="Docker" title="Docker"> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/ alt="VS Code" title="VS Code"> </a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img height="53" width="53" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/ alt="BootStrap" title="BootStrap"> </a>
 </p>
 </br>
 
