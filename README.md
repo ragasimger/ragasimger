@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragasimger" alt="ragasimger" /></a> </p>
 </br>
 
-<h3 align="center">📫 Lets Connect 🤝</h3>
+<h1 align="center">📫 Lets Connect 🤝</h1>
 <p align="center">
   
   <a href="https://www.twitter.com/ragasimger/"> 
@@ -45,7 +45,7 @@
 </p>
 </br>
 
-<h2 align="center">👯 Visitor's count :eyes:</h2>
+<h1 align="center">👯 Visitor's count :eyes:</h1>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Madhur215}/count.svg" alt="Madhur's :: Visitor's Count" /></p>
 
