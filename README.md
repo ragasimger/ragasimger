@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hey there, I'm Sagar Regmi aka Ragas Imger <img src="./gif/Hi.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Sagar Regmi <img src="./gif/Hi.gif" width="30px"></h1>
 <h3 align="center">Python 🐍 | Django Developer 🌐 | Computer Science Geek 💻</h3>
 <!-- <img align="center" src = "./gif/keyboard.gif" style="max-width:100%;" class="center" /> -->
 <div align="center"><img src = "./gif/keyboard.gif" style="max-width:100%;" /></div>
