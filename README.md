@@ -45,19 +45,7 @@
 </p>
 </br>
 
-<h1 align="center">👯 Visitor's count :eyes:</h1>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Madhur215}/count.svg" alt="Madhur's :: Visitor's Count" /></p>
 
 <br/>
 
-<h1 align="center"> ❤ Followers & Stats</h1>
-<p align="center">
-<a href="https://github.com/ragasimger?tab=followers"><img src="https://img.shields.io/github/followers/ragasimger?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragasimger&show_icons=true&locale=en&layout=compact" alt="ragasimger" /></p>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragasimger&show_icons=true&locale=en" alt="ragasimger" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragasimger&" alt="ragasimger" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragasimger&" alt="ragasimger" /></p>
