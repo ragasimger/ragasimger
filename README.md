@@ -10,11 +10,11 @@
 <h1 align="center">📫 Lets Connect 🤝</h1>
 <p align="center">
   
-  <a href="https://www.twitter.com/ragasimger/"> 
+  <a href="https://www.twitter.com/ragasimger/" target="_blank"> 
       <img align="center" alt="Twitter" height="40" width="40" src="./pngs/twitter.png" />
   </a>
   
-   <a href="https://www.linkedin.com/in/ragasimger/">
+   <a href="https://www.linkedin.com/in/ragasimger/" target="_blank">
       <img align="center" alt="Linkdein" height="40" width="40" src="./svgs/linkedin.svg" />
   </a>
   
@@ -22,7 +22,7 @@
       <img align="center" alt="E-mail" height="40" width="40" src="./pngs/email.png" />
   </a>
   
-  <a href="https://www.instagram.com/ragasimger/">
+  <a href="https://www.instagram.com/ragasimger/" target="_blank">
       <img align="center" alt="Instagram"height="40" width="40" src="./svgs/instagram.svg" />
   </a>
  </p>
