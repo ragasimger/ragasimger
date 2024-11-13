@@ -1,51 +1,15 @@
-<!-- ### Hi there 👋 -->
-<h1 align="center">Hey there, I'm Sagar Regmi <img src="./gif/Hi.gif" width="30px"></h1>
-<h3 align="center">Python 🐍 | Django Developer 🌐 | Computer Science Geek 💻</h3>
-<!-- <img align="center" src = "./gif/keyboard.gif" style="max-width:100%;" class="center" /> -->
-<div align="center"><img src = "./gif/keyboard.gif" style="max-width:100%;" /></div>
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragasimger" alt="ragasimger" /></a> </p>
-</br>
-
-<h1 align="center">📫 Lets Connect 🤝</h1>
-<p align="center">
-  
-  <a href="https://www.twitter.com/ragasimger/" target="_blank"> 
-      <img align="center" alt="Twitter" height="40" width="40" src="./pngs/twitter.png" />
-  </a>
-  
-   <a href="https://www.linkedin.com/in/ragasimger/" target="_blank">
-      <img align="center" alt="Linkdein" height="40" width="40" src="./svgs/linkedin.svg" />
-  </a>
-  
-  <a href="mailto:mail@ragasimger.com">
-      <img align="center" alt="E-mail" height="40" width="40" src="./pngs/email.png" />
-  </a>
-  
-  <a href="https://www.instagram.com/ragasimger/" target="_blank">
-      <img align="center" alt="Instagram"height="40" width="40" src="./svgs/instagram.svg" />
-  </a>
- </p>
- 
-<br/>
-
-<h1 align="center">🚀 Tools I Use</h1>
-
-<p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png"/ alt="Html" title="Html"> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/ alt="CSS" title="CSS"> </a>
-    <a href="https://www.python.org" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png"/ alt="Python" title="Python"> </a>
-    <a href="https://www.djangoproject.com/start/" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/material-outlined/48/26e07f/django.png"/ alt="Django" title="Django"> </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img height="40" width="40" src="https://www.postgresql.org/media/img/about/press/elephant.png"/ alt="Postgres" title="Postgres"> </a>
-    <a href="https://www.mysql.com" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/ alt="MySQL" title="MySQL"> </a>
-    <a href="https://git-scm.com" target="_blank"> <img height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png"/ alt="Git" title="Git"> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img height="40" width="55" src="./pngs/docker.png"/ alt="Docker" title="Docker"> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/ alt="VS Code" title="VS Code"> </a>
-    <a href="https://getbootstrap.com/" target="_blank"> <img height="40" width="50" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/ alt="BootStrap" title="BootStrap"> </a>
-</p>
-</br>
+# 💫 About Me:
+🔭 I’m currently working on Django based ERP system.<br>🌱 I’m currently learning LLM, Go, and System Architecture.<br>💬 Ask me about Python, Django, and DevOps related tasks.<br>⚡ Fun fact: Turning "<b>kadak tea" </b>into code as an addiction and errors into laughter, one commit at a time.
 
 
-<br/>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QjP3zm4p) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ragasimger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ragasimger) 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragasimger&" alt="ragasimger" /></p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ragasimger&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ragasimger&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragasimger&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
